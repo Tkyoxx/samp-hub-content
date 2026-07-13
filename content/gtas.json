@@ -1,0 +1,35 @@
+[
+  {
+    "id": "gta-virgen-rip",
+    "name": "GTA Virgen Rip",
+    "tag": "completo",
+    "description": "GTA San Andreas virgen, instalación completa sin mods. Ideal para empezar desde cero.",
+    "screenshots": [],
+    "downloadUrl": "",
+    "sizeBytes": 0,
+    "version": "1.0.0",
+    "updatedAt": "2026-07-12"
+  },
+  {
+    "id": "gta-ge-eki",
+    "name": "GTA Ge Eki",
+    "tag": "personalizado",
+    "description": "Tu versión personalizada con todos los mods, ajustes y configuraciones listos para jugar.",
+    "screenshots": [],
+    "downloadUrl": "",
+    "sizeBytes": 0,
+    "version": "1.0.0",
+    "updatedAt": "2026-07-12"
+  },
+  {
+    "id": "gta-virgen-exe",
+    "name": "GTA Virgen .exe",
+    "tag": "ejecutable",
+    "description": "Versión limpia distribuida como ejecutable instalador. Sin mods, directo a jugar.",
+    "screenshots": [],
+    "downloadUrl": "",
+    "sizeBytes": 0,
+    "version": "1.0.0",
+    "updatedAt": "2026-07-12"
+  }
+]
