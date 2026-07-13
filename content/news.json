@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "title": "Integración de ModLoader",
+    "body": "Ahora los mods de texturas, audio y modelos se instalan solos en su carpeta correcta.",
+    "date": "2026-07-12",
+    "image": ""
+  },
+  {
+    "id": "2",
+    "title": "GX Fixer v1.2",
+    "body": "Corrige nuevos bugs de sincronización en SA-MP y mejora el rendimiento general.",
+    "date": "2026-07-10",
+    "image": ""
+  },
+  {
+    "id": "3",
+    "title": "GTA Ge Eki disponible",
+    "body": "Tu versión personalizada ya está lista para descargar con todo preconfigurado.",
+    "date": "2026-07-08",
+    "image": ""
+  }
+]
